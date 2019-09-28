@@ -38,7 +38,7 @@ class About extends Component {
                         <div className="row service-items border-line-v">
                             <div className=" col col-d-6 col-t-6 col-m-12 border-line-h">
                                 <div className="service-item">
-                                    <div className="icon"><span className="ion"></span></div>
+                                    <div className="icon"><span className="ion"><i className="fas fa-bolt"></i></span></div>
                                     <div className="name">Web Development</div>
                                     <p>
                                         Modern and mobile-ready website that will help you
@@ -48,7 +48,8 @@ class About extends Component {
                             </div>
                             <div className="col col-d-6 col-t-6 col-m-12 border-line-h">
                                 <div className="service-item">
-                                    <div className="icon"><span className="ion ion-music-note"></span></div>
+                                    <div className="icon"><span className="ion "><i
+                                        className="fas fa-music"></i></span></div>
                                     <div className="name">Music Writing</div>
                                     <p>
                                         Music copying, transcription, arranging and composition services.
@@ -57,7 +58,8 @@ class About extends Component {
                             </div>
                             <div className="col col-d-6 col-t-6 col-m-12">
                                 <div className="service-item">
-                                    <div className="icon"><span className="ion ion-speakerphone"></span></div>
+                                    <div className="icon"><span className="ion "><i
+                                        className="fas fa-archive"></i></span></div>
                                     <div className="name">Advetising</div>
                                     <p>
                                         Advertising services include television, radio, print, mail and web.
@@ -66,7 +68,7 @@ class About extends Component {
                             </div>
                             <div className="col col-d-6 col-t-6 col-m-12">
                                 <div className="service-item">
-                                    <div className="icon"><span className="ion ion-ios-game-controller-b"></span></div>
+                                    <div className="icon"><span className="ion"><i className="fas fa-gamepad"></i></span></div>
                                     <div className="name">Game Development</div>
                                     <p>
                                         Developing memorable and unique mobile android, ios games.
