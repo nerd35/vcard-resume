@@ -10,69 +10,69 @@ class ResumeCard extends Component {
 
                         <div className="title">Resume</div>
 
-                        <div class="row">
+                        <div className="row">
 
-                            <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
-                                <div class="resume-title border-line-h">
-                                    <div class="icon"><i class="ion ion-briefcase"></i></div>
-                                    <div class="name">Experience</div>
+                            <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+                                <div className="resume-title border-line-h">
+                                    <div className="icon"><i className="ion ion-briefcase"></i></div>
+                                    <div className="name">Experience</div>
                                 </div>
-                                <div class="resume-items">
-                                    <div class="resume-item border-line-h active">
-                                        <div class="date">2013 - Present</div>
-                                        <div class="name">Art Director</div>
-                                        <div class="company">Facebook Inc.</div>
+                                <div className="resume-items">
+                                    <div className="resume-item border-line-h active">
+                                        <div className="date">2019 - Present</div>
+                                        <div className="name">Frontend Developer</div>
+                                        <div className="company">Ekaruz Technologies.</div>
                                         <p>
                                             Collaborate with creative and development teams on the execution of ideas.
                                         </p>
                                     </div>
-                                    <div class="resume-item border-line-h">
-                                        <div class="date">2011 - 2012</div>
-                                        <div class="name">Front-end Developer</div>
-                                        <div class="company">Google Inc.</div>
+                                    <div className="resume-item border-line-h">
+                                        <div className="date">2015 - 2018</div>
+                                        <div className="name">Data Analyst</div>
+                                        <div className="company">Careers24 Nigeria.</div>
                                         <p>
-                                            Monitored technical aspects of the front-end delivery for several projects.
+                                            Search for recruiters online, ensure jobs are legit and follow up on jobs posted.
                                         </p>
                                     </div>
-                                    <div class="resume-item">
-                                        <div class="date">2009 - 2010</div>
-                                        <div class="name">Senior Developer</div>
-                                        <div class="company">Abc Inc.</div>
+                                    <div className="resume-item">
+                                        <div className="date">2014 - 2015</div>
+                                        <div className="name">Stock Supervisor</div>
+                                        <div className="company">Accessories2Die4</div>
                                         <p>
-                                            Optimize website performance using latest technology.
+                                            Prepare barcodes, items and stock sheets for outlets and also take stock inventories when neccessary
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
-                                <div class="resume-title border-line-h">
-                                    <div class="icon"><i class="ion ion-university"></i></div>
-                                    <div class="name">Education</div>
+                            <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+                                <div className="resume-title border-line-h">
+                                    <div className="icon"><i class="ion ion-university"></i></div>
+                                    <div className="name">Education</div>
                                 </div>
-                                <div class="resume-items">
-                                    <div class="resume-item border-line-h">
-                                        <div class="date">2006 - 2008</div>
-                                        <div class="name">Art University</div>
-                                        <div class="company">New York</div>
+                                <div className="resume-items">
+                                    <div className="resume-item border-line-h">
+                                        <div className="date">2008 - 2009</div>
+                                        <div className="name">NYSC</div>
+                                        <div className="company">Nigeria</div>
                                         <p>
-                                            Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri
+                                            National Youth Service corps
                                         </p>
                                     </div>
-                                    <div class="resume-item border-line-h">
-                                        <div class="date">2005 - 2006</div>
-                                        <div class="name">Programming Course</div>
-                                        <div class="company">Paris</div>
+                                    <div className="resume-item">
+                                        <div className="date">2000 - 2008</div>
+                                        <div className="name">Babcock University</div>
+                                        <div className="company">Nigeria</div>
                                         <p>
-                                            Coursework - Git, WordPress, Javascript, iOS, Android.
+                                            Bachelor's Degree in Business Administration
                                         </p>
                                     </div>
-                                    <div class="resume-item">
-                                        <div class="date">2004 - 2005</div>
-                                        <div class="name">Web Design Course</div>
-                                        <div class="company">London</div>
+                                    <div className="resume-item border-line-h">
+                                        <div className="date">1994 - 2000</div>
+                                        <div className="name">WEAC Certificate</div>
+                                        <div className="company">Edo State, Nigeria</div>
                                         <p>
-                                            Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript
+                                            WEAC Certificate from Covenant Christian Academy.
                                         </p>
                                     </div>
                                 </div>
