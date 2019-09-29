@@ -80,7 +80,18 @@ class ResumeCard extends Component {
 
                             <div class="clear"></div>
                         </div>
-
+                        <div className="content skills">
+                            <div className="title">My Skills</div>
+                            <div className="row">
+                                <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+                                    <div className="skills-list">
+                                        <div className="skill-title border-line-h">
+                                            <div className="icon>"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     </div>
                 </div>

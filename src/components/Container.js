@@ -3,6 +3,7 @@ import Header from "./Header";
 import HomeCard from "./Cards/HomeCard";
 import About from "./Cards/About";
 import ResumeCard from "./Cards/ResumeCard";
+import WorkCard from "./Cards/WorkCard";
 
 class Container extends Component {
     render() {
@@ -12,6 +13,7 @@ class Container extends Component {
                 <HomeCard/>
                 <About/>
                 <ResumeCard/>
+                <WorkCard/>
             </div>
         );
     }
